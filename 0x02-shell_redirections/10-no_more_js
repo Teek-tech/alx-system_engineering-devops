@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -iname \*.jpg -delete
+find . -name "*.js" -type f -delete
