@@ -27,4 +27,4 @@ During the investigation, our suspicion initially fell on a rat chewing on netwo
 
 Nevertheless, the intermittent slowdown issue in the API service was successfully resolved by addressing the misconfiguration in the network equipment. We have implemented corrective measures to prevent such issues in the future and ensure a smoother user experience. Stay tuned for more updates, and rest assured, our network is now rat-proof!
 
-Checkout my blog post : 
+Checkout my blog post : https://www.linkedin.com/pulse/impact-api-service-experienced-intermittent-slowdowns-chris-tochi
