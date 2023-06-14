@@ -1,7 +1,7 @@
 # Postmortem: Web Stack Debugging Issue
 
 ## Issue Summary:
-Duration: 2 hours (May 15, 2023, 9:00 AM - 11:00 AM PDT)
+Duration: 2 hours (May 15, 2023, 9:00 AM - 11:00 AM GMT +1)
 Impact: The API service experienced intermittent slowdowns, resulting in a delay in response times for approximately 20% of users. Users reported sluggish performance and occasional timeouts during this period.
 
 ## Timeline:
@@ -26,3 +26,5 @@ Impact: The API service experienced intermittent slowdowns, resulting in a delay
 During the investigation, our suspicion initially fell on a rat chewing on network cables at the hosting company. However, after a thorough examination, we discovered it was just a case of network misconfiguration. The rat has been forgiven and is no longer considered a prime suspect.
 
 Nevertheless, the intermittent slowdown issue in the API service was successfully resolved by addressing the misconfiguration in the network equipment. We have implemented corrective measures to prevent such issues in the future and ensure a smoother user experience. Stay tuned for more updates, and rest assured, our network is now rat-proof!
+
+Checkout my blog post : 
